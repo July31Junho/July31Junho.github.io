@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+이름: 신준호
+올해도 화이팅!
