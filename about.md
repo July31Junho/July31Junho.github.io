@@ -14,31 +14,13 @@ header-img: images/author.jpg
 ## Skills
 
 ###### Python
-<div class="divider">
-- Financial Investment Strategy Development and Analysis 
-Ex) Statistical Mean reversion strategies
-- Machine Learning study
-</div>
+> - Financial Investment Strategy Development and Analysis <br/> Ex) Statistical Mean reversion strategies <br/> - Machine Learning study
 
 ###### Blockchain
-<div class="divider">
-- Fundamentals research (bitcoin, ethereum)
-</div>
+> - Fundamentals research (bitcoin, ethereum)
 
 ###### SQL and Data Engineering
-<div class="divider">
-- Financial Investment Marketing data Extract and transform 
-Ex) Active customer analysis
-- Informatica ETL 
-- Oracle plan analysis & optimize study
-- Nested Loop, Sort-Merge, Hash join
-- OLAP service
-</div>
+> - Financial Investment Marketing data Extract and transform <br/> Ex) Active customer analysis <br/>- Informatica ETL <br/>- Oracle plan analysis & optimize study <br/> - Nested Loop, Sort-Merge, Hash join <br/> - OLAP service
 
 ###### Java web programming
-<div class="divider">
-- web service developing 
-- web service managing
-- Spring framework
-- javascript, jsp, html
-</div>
+> - web service developing <br/> - web service managing <br/>- Spring framework <br/> - javascript, jsp, html
