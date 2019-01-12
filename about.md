@@ -3,13 +3,12 @@ layout: post
 title: "SHIN JUN HO"
 type: "About"
 permalink: /about/
-header-img: images/author.jpg
 ---
 
-알고리즘 트레이딩을 개발하며 공부중에 있습니다.
-이외 Data Engineer 및 Blockchain도 공부하고 응용해봤습니다.
+알고리즘 트레이딩을 개발하며 공부중에 있습니다.<br/>
+이외 Data Engineer 및 Blockchain도 공부하고 응용해봤습니다.<br/>
 
-기록하는 습관을 기르기 위해 블로그를 시작!
+기록하는 습관을 기르기 위해 블로그를 시작!<br/>
 
 ## Skills
 

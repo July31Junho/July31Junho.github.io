@@ -15,8 +15,8 @@ keywords: "ETF, Investment strategy Analysis"
 나머지는 다시 편집할 것들.
 
 ```python
-s = "Python syntax highlighting"
-print s
+word = "Python syntax highlighting"
+print("All is well")
 ```
 
 ```
