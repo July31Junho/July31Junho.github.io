@@ -7,7 +7,7 @@ keywords: "content"
 ---
 
 ### 2018년은 DT Lab 
-DT Lab[http://it.chosun.com/site/data/html_dir/2017/12/12/2017121285049.html]
+DT Lab[링크](http://it.chosun.com/site/data/html_dir/2017/12/12/2017121285049.html)
 시작됐다.
 
 ### Wework 역삼에 있다.
