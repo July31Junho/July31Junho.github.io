@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "How to Download or Use This Theme"
-type: "Jekyll Theme"
 comments: true
 description: "How to Download or Use This Theme"
 keywords: "dummy content"

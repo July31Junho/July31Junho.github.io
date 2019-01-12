@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "If you have a Guest post.."
-type: "dummy content"
 comments: true
 description: "If you have a Guest post.."
 keywords: "dummy content"

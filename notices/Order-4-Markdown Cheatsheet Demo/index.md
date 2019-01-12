@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Markdown Cheatsheet Demo"
-type: "Markdown"
 notice: true
 comments: true
 description: "Markdown Cheatsheet Demo..."
